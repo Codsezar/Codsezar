@@ -117,7 +117,7 @@ Bu proje MIT Lisansı ile lisanslanmıştır.
 
 Sorularınız veya önerileriniz için bizimle iletişime geçebilirsiniz:
 
-Telegram: @ssezarjul
+Telegram: https://ssezarjul
 
 E-posta: codburak404@gmail.com
 
