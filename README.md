@@ -25,8 +25,7 @@ Bu bot, Telegram gruplarındaki sesli sohbetlerde müzik çalmak için geliştir
 ### Adımlar:
 1. Bu projeyi klonlayın:
    ```bash
-   git clone https://github.com/kullanici/telegram-music-bot.git
-   cd telegram-music-bot
+   git clone https://github.com/Codsezar/Codsezar
 
 2. Bağımlılıkları yükleyin:
 
